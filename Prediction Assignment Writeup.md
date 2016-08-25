@@ -102,7 +102,7 @@ This is what the decision tree looks like:
 fancyRpartPlot(modFitA1)
 ```
 
-![](courserProject_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
+![](https://github.com/LuyanGao/PMachineLearning/blob/master/courserProject_files/figure-html/unnamed-chunk-10-1.png)<!-- -->
 
 And here are the results:
 
